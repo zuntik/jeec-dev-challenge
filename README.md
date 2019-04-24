@@ -17,11 +17,11 @@ We provide the designs displaying how the final application must look like in th
 1. Clone this repository
 2. Install dependencies inside the /webapp directory with:
     - `npm install`
-3. Deploy the Vue.JS application with:
+3. Deploy the Vue.js application with:
     - `npm run dev`
 
 ### Requirements
-* Basics of Vue.JS framework:
+* Basics of Vue.js framework:
     - Declarative Rendering
     - Conditionals and Loops
     - Components
@@ -32,10 +32,11 @@ We provide the designs displaying how the final application must look like in th
     - mobile responsive design
 
 ### Tips
-* Declarative rendering is a PLUS! Without using this the code tends to get really messy, because all of the text is hard-coded in the HTML!
+* Declarative rendering is a PLUS! Without using it the code gets really messy, because all the text is hard coded in the HTML!
 * Use media queries!
-
+* Flexbox's will make your life way easier..
 
 ### Usefull links
-* Vue.JS Documentation (very important) - https://vuejs.org/v2/guide/
-* Flexbox guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Vue.js Documentation (very important) - https://vuejs.org/v2/guide/
+* Flexbox Tutorial - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Responsive Design Tutorial - https://internetingishard.com/html-and-css/responsive-design/
