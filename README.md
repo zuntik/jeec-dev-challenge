@@ -36,7 +36,7 @@ We provide the designs displaying how the final application must look like in th
 * Use media queries!
 * Flexbox's will make your life way easier..
 
-### Usefull links
+### Useful links
 * Vue.js Documentation (very important) - https://vuejs.org/v2/guide/
 * Flexbox Tutorial - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * Responsive Design Tutorial - https://internetingishard.com/html-and-css/responsive-design/
