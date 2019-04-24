@@ -1,23 +1,17 @@
-# jeec-dev-challenge
-
-
-# JEEC Challenge  
+# JEEC|20 Dev-Team Challenge  
 
 ### Table of contents
 * [What is this?](#what-is-this)
-* [Instructions to deploy](#instructions-to-deploy)
+* [Instructions to deploy the webapp](#instructions-to-deploy-the-webapp)
 * [Requirements](#requirements)
-
-
 
 ## What is this?
 Welcome to the JEEC Development Team Challenge! The objective of this challenge is to complete a basic web application that we provide in this repository.
 The application consists of two separate pages: one displaying the list of speakers @ JEEC|20 and another one displaying the information of one specific speaker.
 
-We provide the designs displaying how the final application must look like in the end. 
+We provide the designs displaying how the final application must look like in the end, which are located in the file "mockup.xd". This file can be opened using the software Adobe XD, which is free and can be downloaded in the following link: https://www.adobe.com/pt/products/xd.html.
 
-
-## Deploy
+## Instruction to deploy the webapp
 1. Clone this repository
 2. Install dependencies inside the /webapp directory with:
     - `npm install`
@@ -25,17 +19,19 @@ We provide the designs displaying how the final application must look like in th
     - `npm run dev`
 
 ### Requirements
-* Basic knowledge of HTML
+* Basics of Vue.JS framework:
+    - Declarative Rendering
+    - Conditionals and Loops
+    - Components
+    - List Rendering
+* HTML
 * Basic CSS concepts like:
     - flexbox
-    - responsivity
-    - 
+    - mobile responsive design
 
-### Data structure:
-```
-speaker {
-    name
-    text
-    image
-}
-```
+### Tips
+Use media queries!
+
+
+### Usefull links
+    - https://vuejs.org/v2/guide/
