@@ -32,10 +32,10 @@ We provide the designs displaying how the final application must look like in th
     - mobile responsive design
 
 ### Tips
-Declarative rendering is a PLUS! Without using this the code tends to get really messy, because all of the text is hard-coded in the HTML!
-Use media queries!
+* Declarative rendering is a PLUS! Without using this the code tends to get really messy, because all of the text is hard-coded in the HTML!
+* Use media queries!
 
 
 ### Usefull links
-    Vue.JS Documentation (very important) - https://vuejs.org/v2/guide/
-    Flexbox guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Vue.JS Documentation (very important) - https://vuejs.org/v2/guide/
+* Flexbox guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
