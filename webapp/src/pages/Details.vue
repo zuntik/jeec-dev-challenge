@@ -1,10 +1,17 @@
 <template>
     <div class="details-page">
+        <navbar/>
         <component-title
         title="Speakers @ JEEC"
         subtitle="List of guest speakers that will steal the show!"/>
 
-        {{ text }}
+        <div>
+            <img class="pic" v-bind:src="image">
+            <p>{{name}}</p>
+        </div>
+        <div>
+        {{text}}
+        </div>
     </div>
 </template>
 
@@ -16,5 +23,13 @@ export default {
 </script>
 
 <style>
+
+img.pic
+{
+    border-radius: 10px;
+    height:150px;
+    box-shadow: 2px 2px 5px grey;
+}
+
 
 </style>
